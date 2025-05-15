@@ -26,7 +26,6 @@ const CustomNavbar = () => {
                             <Nav.Link as={Link} to='/admin-noticias' className='px-3'>Admin</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
-
             </Container>
         </Navbar>
     </>

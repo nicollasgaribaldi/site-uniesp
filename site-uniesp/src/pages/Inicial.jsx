@@ -80,6 +80,40 @@ const Inicial = () => {
                 </Card>
             </Col>
         </Row>
+
+        {/* Segunda linha com 2 colunas - para os cards ficarem lado a lado */}
+
+        <Row className='g-4 mt-4'>
+            <Col md={6}>
+                {/* Card 1 */}
+                <Card className='h-100 shadow-sm'>
+                    <Card.Body className='text-center'>
+                        <Card.Title>
+                            Parcerias com Empresas
+                        </Card.Title>
+                        <Card.Text>
+                            ...
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
+            </Col>
+
+            {/* Card 2 */}
+            <Col md={6}>
+                {/* Card 2 */} 
+                <Card className='h-100 shadow-sm'>
+                    <Card.Body className='text-center'>
+                        <Card.Title>
+                            Compromisso com a Educação
+                        </Card.Title>
+                        <Card.Text>
+                            ...
+                        </Card.Text>
+                    </Card.Body>
+                </Card>
+            </Col>
+        </Row>
+
     </Container>
   )
 }

@@ -9,13 +9,10 @@ const Faculdade = () => {
         <Card className='mb-4 sahdow-sm'>
             <Card.Body>
             <p>
-            A Faculdade UNIESP é uma instituição comprometida em fornecer educação de qualidade, com foco no desenvolvimento profissional e pessoal...
+            A Faculdade UNIESP é uma instituição comprometida com a excelência no ensino e no desenvolvimento de habilidades para o mercado de trabalho...
             </p>
             <p>
-            Contamos com uma equipe de professores qualificados, uma infraestrutura moderna e uma metodologia de ensino que valoriza o aprendizado prático...
-            </p>
-            <p>
-            A seguir, conheça mais sobre as áreas e as oportunidades que a Faculdade UNIESP oferece para você.
+            Nossos cursos são projetados para formar profissionais capacitados e conscientes de seu papel na sociedade...
             </p>
             </Card.Body>
         </Card>

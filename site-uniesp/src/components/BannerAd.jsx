@@ -3,7 +3,7 @@ import { Carousel, Container } from 'react-bootstrap'
 
 const BannerAd = () => {
   return (
-    <Container className='my-4 p-0' fluid>
+    <Container className="my-4 p-0" fluid>
         <Carousel fade interval={5000} controls={true} indicators={true}>
 
             {/* First slide */}

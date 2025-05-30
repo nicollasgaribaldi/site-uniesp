@@ -93,7 +93,7 @@ const Inicial = () => {
                             Parcerias com Empresas
                         </Card.Title>
                         <Card.Text>
-                            ...
+                            A UNIESP mantém parcerias com diversas empresas, permitindo que nossos alunos tenham acesso a oportunidades de estágio e emprego logo após a graduação...
                         </Card.Text>
                     </Card.Body>
                 </Card>
@@ -108,7 +108,7 @@ const Inicial = () => {
                             Compromisso com a Educação
                         </Card.Title>
                         <Card.Text>
-                            ...
+                            A UNIESP se dedica a oferecer uma educação acessível e de qualidade, acreditando que o conhecimento transforma vidas...
                         </Card.Text>
                     </Card.Body>
                 </Card>

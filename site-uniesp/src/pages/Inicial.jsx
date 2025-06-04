@@ -4,11 +4,11 @@ import BannerAd from '../components/BannerAd'
 
 const Inicial = () => {
   return (
-    <Container className='py-4'>
+    <Container className='py-4 pt-0 pb-4'>
 
         <BannerAd />
 
-        <Card className='mb-4 sahdow-sm'>
+        <Card className='mb-4 shadow-sm mt-4'>
             <Card.Body>
             <p>
             A Faculdade UNIESP é uma instituição comprometida em fornecer educação de qualidade, com foco no desenvolvimento profissional e pessoal...
